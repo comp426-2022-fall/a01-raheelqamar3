@@ -1,0 +1,31 @@
+{
+  "name": "a01-raheelqamar3",
+  "version": "1.0.0",
+  "description": "raheel-webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a01-raheelqamar3.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "fs",
+    "args",
+    "http"
+  ],
+  "author": "raheelqamar3",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a01-raheelqamar3/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a01-raheelqamar3#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
